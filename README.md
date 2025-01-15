@@ -38,3 +38,7 @@ O projeto é composto pelas seguintes classes principais:
 - Sobreviventes "doentes" ou "mortos" não podem ser adicionados às missões.
 - O limite de sobreviventes por missão é 5.
 - Recursos adicionados devem ter uma quantidade maior ou igual a 1.
+
+## Diagrama de classes:
+
+![alt text](image.png)
